@@ -1,0 +1,18 @@
+<!-- src/app/tabla-productos/tabla-productos.component.html -->
+<table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Nombre</th>
+        <th>Precio</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let producto of productos">
+        <td>{{ producto.id }}</td>
+        <td>{{ producto.nombre }}</td>
+        <td>{{ producto.precio | currency }}</td>
+      </tr>
+    </tbody>
+  </table>
+  

@@ -15,7 +15,7 @@
 ### Quinto paso
 ![Quinto paso: ](./Capturas/5.jpeg)
 #### Sexto paso
-![Sexto paso: ](./Sexto/6.jpeg)
+![Sexto paso: ](./Capturas/6.jpeg)
  
  ## Ejemplo en carpeta Larave 
 ![Ejemplo en carpeta Larave : ](./Capturas/7.jpeg)
